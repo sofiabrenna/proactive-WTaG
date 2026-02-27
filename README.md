@@ -1,5 +1,5 @@
 # Proactivity-Annotated WTaG Dataset
-The files consists in 11 dialogues from the Watch-Talk-and-Guide dataset (https://github.com/sled-group/Watch-Talk-and-Guide) tha have been manually annotated for the presence of _proactivity_ in multimodal task-guidance dialogues in the recipes domain.
+The files consists in 11 dialogues from the Watch-Talk-and-Guide dataset (https://github.com/sled-group/Watch-Talk-and-Guide) that have been manually annotated for the presence of _proactivity_ in multimodal task-guidance dialogues in the recipes domain.
 
 - WTaG_annotato_textual.json contains annotations made with access exclusively to dialogue transcriptions of the WTaG interactions;
 - WTaG_annotato_multimodal.json contains annotations made with full multimodal access: namely, textual and audio-visual context of the WtaG interactions.
