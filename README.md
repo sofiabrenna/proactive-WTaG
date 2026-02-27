@@ -23,7 +23,7 @@ Proactivity is defined by both novelty/initiative and helpfulness, and each proa
 • INTERVENTION — A directly performs an action in the environment to help achieve the dialogue goal.
 
 ## WTaG Distribution
-Access to the Watch-Talk-and-Guide dataset is managed by its owners according to its release license (https://github.com/sled-group/Watch-Talk-and-Guide).
+Access to the Watch-Talk-and-Guide dataset is managed by its owners according to its license (https://github.com/sled-group/Watch-Talk-and-Guide).
 
 ## Contributors
 - Sofia Brenna (Free University of Bozen-Bolzano, FBK - Fondazione Bruno Kessler)
