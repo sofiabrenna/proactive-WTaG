@@ -26,7 +26,7 @@ Proactivity is defined by both novelty/initiative and helpfulness, and each proa
 Access to the Watch-Talk-and-Guide dataset is managed by its owners according to its license (https://github.com/sled-group/Watch-Talk-and-Guide).
 
 ## Contributors
-- Sofia Brenna (Free University of Bozen-Bolzano, FBK - Fondazione Bruno Kessler)
+- Sofia Brenna (Free University of Bozen-Bolzano, Fondazione Bruno Kessler)
 - Matthias Kraus (University of Augsburg)
 - Elisabetta Jezek (Univerity of Pavia)
-- Bernardo Magnini (FBK - Fondazione Bruno Kessler)
+- Bernardo Magnini (Fondazione Bruno Kessler)
