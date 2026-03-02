@@ -14233,7 +14233,7 @@
       },
       {
         "Turn Number": 21,
-        "Turn Proactivity": "FALSE",
+        "Turn Proactivity": "TRUE",
         "utterance_data": [
           {
             "Utterance Number": 29,
@@ -14249,8 +14249,8 @@
           },
           {
             "Utterance Number": 30,
-            "Utterance Proactivity": "",
-            "Utterance Dialogue Act": "",
+            "Utterance Proactivity": "TRUE",
+            "Utterance Dialogue Act": "INFO-REQUEST",
             "Speaker": "User",
             "Text": "uh is it ok now?",
             "Action": "Question",
